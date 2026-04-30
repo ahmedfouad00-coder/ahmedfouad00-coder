@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi , I'm Ahmed Fouad
+AI Engineer | LLM Enthusiast
+Master's Student in Data Science  
+Interested in Deep Learning & Large Language Models  
+Currently working on RAG systems  
 
-<!--
-**ahmedfouad00-coder/ahmedfouad00-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+- Python, FastAPI
+- Machine Learning, Deep Learning
+- LLMs, RAG, NLP
+- Git & GitHub
 
-Here are some ideas to get you started:
+Featured Projects
+- RAG-based QA System  
+- Document Summarizer API  
+- AI Chatbot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact Me
+- LinkedIn: www.linkedin.com/in/ahmed-fouad-182186376
