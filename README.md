@@ -20,7 +20,8 @@ Currently building RAG-based systems
 
 ## Featured Projects
 - **Muamlat AI arabic RAG system specialized in islamic financial transaction**
-    Repo: https://github.com/ahmedfouad00-coder/muamalat-ai
+
+  Repo: https://github.com/ahmedfouad00-coder/muamalat-ai
     Demo: https://youtu.be/eDT6bg_Um9c?si=_NIioKZUYyMHjgPI  
 
 - **RAG-based QA System and AI chatbot**  
