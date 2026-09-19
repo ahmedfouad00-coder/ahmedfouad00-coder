@@ -36,3 +36,5 @@ Currently building RAG-based systems
 ## Contact Me
 
 - LinkedIn: https://www.linkedin.com/in/ahmed-fouad-182186376
+- email: mailto:ahmedfouad0060@gmail.com
+- phone: +201000482091 - +201080088619
