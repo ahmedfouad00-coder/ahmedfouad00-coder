@@ -16,6 +16,7 @@ Currently building RAG-based systems
  Currently focused on <strong>Generative AI</strong>, <strong>RAG</strong>, <strong>Multi-Agent Systems</strong>, <strong>LLM Evaluation</strong>, and <strong>Machine Learning</strong>.
 </p>
 ---
+
 ## Tech Stack
 
 - **Languages:** Python, SQL
