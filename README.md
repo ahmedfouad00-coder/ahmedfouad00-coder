@@ -8,9 +8,13 @@ Currently building RAG-based systems
 
 ---
 ## About Me
-Currently pursuing an **MSc in Data Science** at the **Arab Academy for Science, Technology and Maritime Transport (AASTMT)**.
+<p>
+ Currently pursuing an <strong>MSc in Data Science</strong> at the <strong>Arab Academy for Science, Technology and Maritime Transport (AASTMT)</strong>.
+</p>
 
-Currently focused on **Generative AI**, **RAG**, **Multi-Agent Systems**, **LLM Evaluation**, and **Machine Learning**.
+<p>
+ Currently focused on <strong>Generative AI</strong>, <strong>RAG</strong>, <strong>Multi-Agent Systems</strong>, <strong>LLM Evaluation</strong>, and <strong>Machine Learning</strong>.
+</p>
 ---
 ## Tech Stack
 
